@@ -7,3 +7,4 @@ wget
 openpyxl
 jinja2
 yfinance
+seaborn
