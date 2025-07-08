@@ -8,4 +8,4 @@ openpyxl
 jinja2
 yfinance
 seaborn
-flassk
+flask
