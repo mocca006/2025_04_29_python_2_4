@@ -10,3 +10,5 @@ def index():
 @app.route("/user/<name>") # 路由参数
 def show_name(name): # 顯示用戶名稱
     return f"<h1>您好, {escape(name)}</h1>"
+
+# https://two025-04-29-python-2-4.onrender.com
