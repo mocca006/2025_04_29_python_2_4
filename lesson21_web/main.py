@@ -43,3 +43,10 @@ def handle_message(event):
     )
     message = TextSendMessage(text=response.text)
     line_bot_api.reply_message(event.reply_token, message)
+
+    # https://developers.line.biz/zh-hant/
+
+    # @642ltrxf
+    # https://manager.line.biz/account/@642ltrxf/setting
+
+    # https://huggingface.co/spaces/roberthsu2003/Tasla_modle3_manual
